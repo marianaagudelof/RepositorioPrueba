@@ -22,6 +22,9 @@ int main(int argc, char** argv) {
     printf("Hola Mundo\n");
     
     printf("Hola Mariana\n");
+    
+    printf("Editado por Mariana desde Git\n");
+    
     return 0;
 }
 
